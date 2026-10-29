@@ -1,0 +1,3 @@
+/.well-known/did.json
+  Content-Type: application/jwt
+  Access-Control-Allow-Origin: *
